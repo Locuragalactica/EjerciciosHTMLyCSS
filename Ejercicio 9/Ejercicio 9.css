@@ -1,0 +1,50 @@
+h1 {
+  color: darkcyan;
+}
+
+h2 {
+  color: blue;
+}
+
+table {
+  color: green;
+  border-collapse: collapse;
+}
+
+table,
+td,
+th {
+  border: 2px solid black;
+}
+
+.red{
+  color: red;
+}
+
+.trojo {
+  color: red;
+}
+
+.tnaranjas {
+  color: orange;
+}
+
+.verdecito {
+  color: darkolivegreen;
+}
+
+.violeta{
+    color: blueviolet;
+}
+
+#azul{
+color: blue;
+}
+
+#violetita{
+  color: hotpink;
+}
+
+#verdeoscuro{
+  color: steelblue;
+}
